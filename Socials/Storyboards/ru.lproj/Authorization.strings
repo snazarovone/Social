@@ -1,0 +1,144 @@
+/* Class = "UIButton"; normalTitle = "No, I don’t"; ObjectID = "4iV-wP-aS2"; */
+"4iV-wP-aS2.normalTitle" = "Нет";
+
+/* Class = "UITextField"; placeholder = "Your Name"; ObjectID = "5H5-s0-K0r"; */
+"5H5-s0-K0r.placeholder" = "Введите Ваше имя";
+
+/* Class = "UILabel"; text = "My Birthday"; ObjectID = "8vd-BA-Nmz"; */
+"8vd-BA-Nmz.text" = "День рождения";
+
+/* Class = "UILabel"; text = "Find your soul mate"; ObjectID = "9p2-gq-Cii"; */
+"9p2-gq-Cii.text" = "Find your soul mate";
+
+/* Class = "UILabel"; text = "Woman"; ObjectID = "aIU-wK-rNk"; */
+"aIU-wK-rNk.text" = "Woman";
+
+/* Class = "UILabel"; text = "Eschty"; ObjectID = "B6T-aG-Qv6"; */
+"B6T-aG-Qv6.text" = "Jivys";
+
+/* Class = "UIButton"; normalTitle = "By signing up you agree to our Terms & Privacy policy"; ObjectID = "BIp-fJ-esg"; */
+"BIp-fJ-esg.normalTitle" = "By signing up you agree to our Terms & Privacy policy";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ccA-rr-ybP"; */
+"ccA-rr-ybP.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "My Location"; ObjectID = "cre-qo-Kpg"; */
+"cre-qo-Kpg.text" = "Местоположение";
+
+/* Class = "UILabel"; text = "Find a soul mate"; ObjectID = "DAt-KM-yXN"; */
+"DAt-KM-yXN.text" = "Find a soul mate";
+
+/* Class = "UIButton"; normalTitle = "Log in with phone number or E-mail"; ObjectID = "ebl-dq-ORR"; */
+"ebl-dq-ORR.normalTitle" = "Войти по номеру телефона";
+
+/* Class = "UILabel"; text = "We never post on your behalf."; ObjectID = "Ewv-dd-XHD"; */
+"Ewv-dd-XHD.text" = "Мы ничего не публикуем от Вашего имени";
+
+/* Class = "UITextField"; placeholder = "+7 (XXX) XXX-XX-XX"; ObjectID = "FdT-35-1vT"; */
+"FdT-35-1vT.placeholder" = "Введите номер телефона";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "fKQ-cK-68H"; */
+"fKQ-cK-68H.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "gbH-1C-tDp"; */
+"gbH-1C-tDp.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "H62-t9-cDR"; */
+"H62-t9-cDR.text" = "Вход";
+
+/* Class = "UIButton"; normalTitle = "Turn on geolocation"; ObjectID = "HDd-ZO-45Y"; */
+"HDd-ZO-45Y.normalTitle" = "Включить геолокацию";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "idj-yv-Qgh"; */
+"idj-yv-Qgh.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ido-1Q-BSY"; */
+"ido-1Q-BSY.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Find"; ObjectID = "jRn-h6-qeU"; */
+"jRn-h6-qeU.placeholder" = "Введите Вашу цель";
+
+/* Class = "UILabel"; text = "Enter your phone number"; ObjectID = "Jry-y1-gOO"; */
+"Jry-y1-gOO.text" = "Введите Ваш номер телефона";
+
+/* Class = "UILabel"; text = "You need to turn on geolocation on your phone\nso that we can identify your location."; ObjectID = "k5L-1t-8qF"; */
+"k5L-1t-8qF.text" = "Вам нужно включить геолокацию на этом устройстве, чтобы использовать наше приложение";
+
+/* Class = "UILabel"; text = "My Photos"; ObjectID = "mrN-4T-bQG"; */
+"mrN-4T-bQG.text" = "Фото";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "NJW-hA-7AL"; */
+"NJW-hA-7AL.normalTitle" = "Продолжить";
+
+/* Class = "UITextField"; placeholder = "Write your location..."; ObjectID = "nSS-el-hTH"; */
+"nSS-el-hTH.placeholder" = "Введите Ваше местоположение";
+
+/* Class = "UILabel"; text = "Show my gender on profile"; ObjectID = "Ntj-Pn-DYg"; */
+"Ntj-Pn-DYg.text" = "Не показывать этот выбор в профиле";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "ont-0g-jGE"; */
+"ont-0g-jGE.text" = "Выбрать местоположение";
+
+/* Class = "UILabel"; text = "Eschty"; ObjectID = "oPL-ZS-TFa"; */
+"oPL-ZS-TFa.text" = "Eschty";
+
+/* Class = "UITextField"; placeholder = "YYYY-MM-DD"; ObjectID = "QwN-Of-oVg"; */
+"QwN-Of-oVg.placeholder" = "ГГГГ-ММ-ДД";
+
+/* Class = "UIButton"; normalTitle = "Yes, I do"; ObjectID = "RVj-DI-D49"; */
+"RVj-DI-D49.normalTitle" = "Да";
+
+/* Class = "UILabel"; text = "My Name"; ObjectID = "T3w-1k-roa"; */
+"T3w-1k-roa.text" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "tCV-Mx-SAY"; */
+"tCV-Mx-SAY.normalTitle" = "Подтвердить";
+
+/* Class = "UILabel"; text = "My Goal"; ObjectID = "tFg-EW-Bna"; */
+"tFg-EW-Bna.text" = "Цель";
+
+/* Class = "UIButton"; normalTitle = "More options"; ObjectID = "TP9-hd-hcg"; */
+"TP9-hd-hcg.normalTitle" = "More options";
+
+/* Class = "UILabel"; text = "I am"; ObjectID = "tX2-w6-yVz"; */
+"tX2-w6-yVz.text" = "Кто вы";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "tZj-uj-mpz"; */
+"tZj-uj-mpz.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "UAQ-nG-bH5"; */
+"UAQ-nG-bH5.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Locate manually"; ObjectID = "uh4-ss-CMf"; */
+"uh4-ss-CMf.normalTitle" = "Определить местоположение вручную";
+
+/* Class = "UILabel"; text = "Do you want to delete\nphoto?"; ObjectID = "uxL-ie-WZN"; */
+"uxL-ie-WZN.text" = "Вы уверены, что хотите удалить это фото?";
+
+/* Class = "UILabel"; text = "Verify Phone"; ObjectID = "vra-NO-XDH"; */
+"vra-NO-XDH.text" = "Подтверждение телефона";
+
+/* Class = "UILabel"; text = "Amsterdam,Netherlands"; ObjectID = "VZa-zU-Q4T"; */
+"VZa-zU-Q4T.text" = "Amsterdam,Netherlands";
+
+/* Class = "UILabel"; text = "Please type the verification code\nsend to"; ObjectID = "X8O-gC-UKt"; */
+"X8O-gC-UKt.text" = "Please type the verification code\nsend to";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "xPR-X3-Kir"; */
+"xPR-X3-Kir.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Xwo-Ga-1Jy"; */
+"Xwo-Ga-1Jy.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "Xyr-4p-ARU"; */
+"Xyr-4p-ARU.normalTitle" = "Войти через Facebook";
+
+/* Class = "UITextField"; placeholder = "Your Email"; ObjectID = "ypp-dU-MDY"; */
+"ypp-dU-MDY.placeholder" = "Введите Ваш email";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "ZeG-vy-UcP"; */
+"ZeG-vy-UcP.normalTitle" = "Повторить отправку кода";
+
+/* Class = "UILabel"; text = "“Thanks for the new proposed goal! We will definitely review it and notify you of the results. We also suggest that you can choose one of our existing goals.”"; ObjectID = "zya-Pa-r2b"; */
+"zya-Pa-r2b.text" = "Спасибо за предложенную цель!\nМы обязательно рассмотрим ее и уведомим Вас о результатах.\nТакже предлагаем Вам выбрать одну из наших уже существующих целей.";
+

@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "or"; ObjectID = "5TQ-eE-Usl"; */
+"5TQ-eE-Usl.text" = "or";
+
+/* Class = "UILabel"; text = "Click here \nto undo a dislike"; ObjectID = "8Lm-xg-S1p"; */
+"8Lm-xg-S1p.text" = "Click here \nto undo a dislike";
+
+/* Class = "UILabel"; text = "Like?\nClick here"; ObjectID = "8NH-li-oyf"; */
+"8NH-li-oyf.text" = "Like?\nClick here";
+
+/* Class = "UILabel"; text = "Click here \nto SuperLike"; ObjectID = "8dF-RI-BoB"; */
+"8dF-RI-BoB.text" = "Click here \nto SuperLike";
+
+/* Class = "UILabel"; text = "Like?\nClick here"; ObjectID = "I2t-qo-cox"; */
+"I2t-qo-cox.text" = "Dislike\nClick here";
+
+/* Class = "UILabel"; text = "Dislike?\nSwipe down."; ObjectID = "IqB-Yx-aDu"; */
+"IqB-Yx-aDu.text" = "Dislike?\nSwipe down.";
+
+/* Class = "UILabel"; text = "Double click to\nSuperLike."; ObjectID = "Tuy-NE-hVz"; */
+"Tuy-NE-hVz.text" = "Double click to\nSuperLike.";
+
+/* Class = "UILabel"; text = "Like?\nSwipe up."; ObjectID = "iqQ-wx-DG7"; */
+"iqQ-wx-DG7.text" = "Like?\nSwipe up.";
+
+/* Class = "UILabel"; text = "85% of match"; ObjectID = "mSl-N5-SVJ"; */
+"mSl-N5-SVJ.text" = "85% of match";
+
+/* Class = "UILabel"; text = "This is your match \npercentage."; ObjectID = "wbb-UB-rxh"; */
+"wbb-UB-rxh.text" = "This is your match \npercentage.";
+
+/* Class = "UILabel"; text = "Swipe left \nto see more photos"; ObjectID = "zoc-g5-wfD"; */
+"zoc-g5-wfD.text" = "Swipe left \nto see more photos";
+
+/* Class = "UILabel"; text = "Swipe right \nto see the profile"; ObjectID = "zvY-Ob-3Sn"; */
+"zvY-Ob-3Sn.text" = "Swipe right \nto see the profile";

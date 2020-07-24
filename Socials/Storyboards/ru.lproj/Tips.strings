@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "or"; ObjectID = "5TQ-eE-Usl"; */
+"5TQ-eE-Usl.text" = "или";
+
+/* Class = "UILabel"; text = "Click here \nto undo a dislike"; ObjectID = "8Lm-xg-S1p"; */
+"8Lm-xg-S1p.text" = "Кликните здесь\nдля отмены дизлайка";
+
+/* Class = "UILabel"; text = "Like?\nClick here"; ObjectID = "8NH-li-oyf"; */
+"8NH-li-oyf.text" = "Лайк?\nКликните здесь";
+
+/* Class = "UILabel"; text = "Click here \nto SuperLike"; ObjectID = "8dF-RI-BoB"; */
+"8dF-RI-BoB.text" = "Кликните здесь\nдля СуперЛайка";
+
+/* Class = "UILabel"; text = "Like?\nClick here"; ObjectID = "I2t-qo-cox"; */
+"I2t-qo-cox.text" = "Дизлайк?\nКликните здесь";
+
+/* Class = "UILabel"; text = "Dislike?\nSwipe down."; ObjectID = "IqB-Yx-aDu"; */
+"IqB-Yx-aDu.text" = "Дизлайк?\nСвайп вниз.";
+
+/* Class = "UILabel"; text = "Double click to\nSuperLike."; ObjectID = "Tuy-NE-hVz"; */
+"Tuy-NE-hVz.text" = "Кликните два раза\nдля СуперЛайка";
+
+/* Class = "UILabel"; text = "Like?\nSwipe up."; ObjectID = "iqQ-wx-DG7"; */
+"iqQ-wx-DG7.text" = "Лайк?\nСвайп наверх.";
+
+/* Class = "UILabel"; text = "85% of match"; ObjectID = "mSl-N5-SVJ"; */
+"mSl-N5-SVJ.text" = "85% of match";
+
+/* Class = "UILabel"; text = "This is your match \npercentage."; ObjectID = "wbb-UB-rxh"; */
+"wbb-UB-rxh.text" = "Это ваш процент\nсовпадений.";
+
+/* Class = "UILabel"; text = "Swipe left \nto see more photos"; ObjectID = "zoc-g5-wfD"; */
+"zoc-g5-wfD.text" = "Свайп влево\nчтобы увидеть больше фото";
+
+/* Class = "UILabel"; text = "Swipe right \nto see the profile"; ObjectID = "zvY-Ob-3Sn"; */
+"zvY-Ob-3Sn.text" = "Свайп вправо\nчтобы увидеть профиль";

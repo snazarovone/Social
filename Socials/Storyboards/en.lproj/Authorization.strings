@@ -1,0 +1,86 @@
+/* Class = "UIButton"; normalTitle = "No, I don’t"; ObjectID = "4iV-wP-aS2"; */
+"4iV-wP-aS2.normalTitle" = "No";
+
+/* Class = "UITextField"; placeholder = "Your Name"; ObjectID = "5H5-s0-K0r"; */
+"5H5-s0-K0r.placeholder" = "Enter your name";
+
+/* Class = "UILabel"; text = "My Birthday"; ObjectID = "8vd-BA-Nmz"; */
+"8vd-BA-Nmz.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Eschty"; ObjectID = "B6T-aG-Qv6"; */
+"B6T-aG-Qv6.text" = "Jivys";
+
+/* Class = "UILabel"; text = "My Location"; ObjectID = "cre-qo-Kpg"; */
+"cre-qo-Kpg.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Log in with phone number or E-mail"; ObjectID = "ebl-dq-ORR"; */
+"ebl-dq-ORR.normalTitle" = "Log in with phone number";
+
+/* Class = "UILabel"; text = "We never post on your behalf."; ObjectID = "Ewv-dd-XHD"; */
+"Ewv-dd-XHD.text" = "We never post on your behalf";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "H62-t9-cDR"; */
+"H62-t9-cDR.text" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Turn on geolocation"; ObjectID = "HDd-ZO-45Y"; */
+"HDd-ZO-45Y.normalTitle" = "Turn on location";
+
+/* Class = "UITextField"; placeholder = "Find"; ObjectID = "jRn-h6-qeU"; */
+"jRn-h6-qeU.placeholder" = "Enter your goal";
+
+/* Class = "UILabel"; text = "Enter your phone number"; ObjectID = "Jry-y1-gOO"; */
+"Jry-y1-gOO.text" = "Enter your phone number";
+
+/* Class = "UILabel"; text = "You need to turn on geolocation on your phone\nso that we can identify your location."; ObjectID = "k5L-1t-8qF"; */
+"k5L-1t-8qF.text" = "You need turn on location on this device to use our app";
+
+/* Class = "UILabel"; text = "My Photos"; ObjectID = "mrN-4T-bQG"; */
+"mrN-4T-bQG.text" = "Photos";
+
+/* Class = "UITextField"; placeholder = "Write your location..."; ObjectID = "nSS-el-hTH"; */
+"nSS-el-hTH.placeholder" = "Enter your location";
+
+/* Class = "UILabel"; text = "Show my gender on profile"; ObjectID = "Ntj-Pn-DYg"; */
+"Ntj-Pn-DYg.text" = "Don't display this choice on profile";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "ont-0g-jGE"; */
+"ont-0g-jGE.text" = "Choose a location";
+
+/* Class = "UIButton"; normalTitle = "Yes, I do"; ObjectID = "RVj-DI-D49"; */
+"RVj-DI-D49.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "My Name"; ObjectID = "T3w-1k-roa"; */
+"T3w-1k-roa.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "tCV-Mx-SAY"; */
+"tCV-Mx-SAY.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "My Goal"; ObjectID = "tFg-EW-Bna"; */
+"tFg-EW-Bna.text" = "Goal";
+
+/* Class = "UILabel"; text = "I am"; ObjectID = "tX2-w6-yVz"; */
+"tX2-w6-yVz.text" = "Who are you";
+
+/* Class = "UIButton"; normalTitle = "Locate manually"; ObjectID = "uh4-ss-CMf"; */
+"uh4-ss-CMf.normalTitle" = "Manually set a location";
+
+/* Class = "UILabel"; text = "Do you want to delete\nphoto?"; ObjectID = "uxL-ie-WZN"; */
+"uxL-ie-WZN.text" = "Are you sure you want to delete this photo?";
+
+/* Class = "UILabel"; text = "Verify Phone"; ObjectID = "vra-NO-XDH"; */
+"vra-NO-XDH.text" = "Verify a phone number";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Xwo-Ga-1Jy"; */
+"Xwo-Ga-1Jy.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "Xyr-4p-ARU"; */
+"Xyr-4p-ARU.normalTitle" = "Log in with Facebook";
+
+/* Class = "UITextField"; placeholder = "Your Email"; ObjectID = "ypp-dU-MDY"; */
+"ypp-dU-MDY.placeholder" = "Enter your email";
+
+/* Class = "UILabel"; text = "“Thanks for the new proposed goal! We will definitely review it and notify you of the results. We also suggest that you can choose one of our existing goals.”"; ObjectID = "zya-Pa-r2b"; */
+"zya-Pa-r2b.text" = "Thanks for the new proposed goal!\nWe will definitely review it and notify you of the results.\nWe also suggest that you can choose one of our existing goals.";
+
+/* Class = "UITextField"; placeholder = "+7 (XXX) XXX-XX-XX"; ObjectID = "FdT-35-1vT"; */
+"FdT-35-1vT.placeholder" = "Enter your phone number";

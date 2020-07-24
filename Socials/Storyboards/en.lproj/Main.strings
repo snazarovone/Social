@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Alina, 24"; ObjectID = "6h8-s2-slS"; */
+"6h8-s2-slS.text" = "Alina, 24";
+
+/* Class = "UIButton"; normalTitle = "Add interest"; ObjectID = "7S3-e3-hq2"; */
+"7S3-e3-hq2.normalTitle" = "Add interest";
+
+/* Class = "UILabel"; text = "To get more matches, you need to select \nan additional goal or interests."; ObjectID = "ARx-Me-ZPe"; */
+"ARx-Me-ZPe.text" = "Add more goals or interests to see other people";
+
+/* Class = "UIButton"; normalTitle = "Skiing"; ObjectID = "Fyq-DI-C70"; */
+"Fyq-DI-C70.normalTitle" = "Chatting";
+
+/* Class = "UIButton"; normalTitle = "Sport"; ObjectID = "NDg-w4-8PT"; */
+"NDg-w4-8PT.normalTitle" = "Sport";
+
+/* Class = "UILabel"; text = "85% of match"; ObjectID = "SYp-ZU-idv"; */
+"SYp-ZU-idv.text" = "85% of match";
+
+/* Class = "UILabel"; text = "You looked at all matches\nand recommendations \nof our service"; ObjectID = "TTx-AE-5Zs"; */
+"TTx-AE-5Zs.text" = "You looked through all profiles and recommendations";
+
+/* Class = "UILabel"; text = "1 miles from you"; ObjectID = "V6Q-VV-E08"; */
+"V6Q-VV-E08.text" = "1 miles from you";
+
+/* Class = "UIButton"; normalTitle = "Rock"; ObjectID = "VHb-9G-uk0"; */
+"VHb-9G-uk0.normalTitle" = "Events";
+
+/* Class = "UIButton"; normalTitle = "Traveling"; ObjectID = "qcR-QE-mIU"; */
+"qcR-QE-mIU.normalTitle" = "Traveling";
+
+/* Class = "UIButton"; normalTitle = "Add goal"; ObjectID = "ujh-J1-TiX"; */
+"ujh-J1-TiX.normalTitle" = "Add goal";

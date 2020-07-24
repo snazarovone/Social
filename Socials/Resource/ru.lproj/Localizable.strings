@@ -1,0 +1,96 @@
+/* Alert */
+"Allow Location Access" = "Включить геолокацию";
+
+/* text Terms & Privacy policy */
+"By signing up you agree to our Terms & Privacy policy" = "Авторизуясь в нашем приложении, Вы соглашаетесь с условиями Правил и Политики безопасности";
+
+/* Button Camera */
+"Camera" = "Сфотографировать";
+
+/* Title Alert Action Cancel */
+"Cancel" = "Отмена";
+
+/* Alert title
+   Alert title default */
+"Error" = "Ошибка";
+
+/* Title alert sheet select camera or library */
+"How to add a photo?" = "How to add a photo?";
+
+/* Less options Button */
+"Less options" = "Less options";
+
+/* Location not found */
+"Location not found" = "Местоположение не найдено";
+
+/* Make your own goal */
+"Make your own goal" = "Предложить новую цель";
+
+/* More options Button */
+"More options" = "Больше опций";
+
+/* Alert action no */
+"No" = "Нет";
+
+/* Button Photo */
+"Photo" = "Выбрать из галереи";
+
+/* Title alert sheet select camera or library */
+"Select" = "Выбрать";
+
+/* Alert Button */
+"Settings" = "Настройки";
+
+/* Должен быть в этом You need to turn on geolocation on your phone\nso that we can identify your location. предложении!!! */
+"so that we can identify your location." = "чтобы использовать наше приложение";
+
+/* Должен иметь слова которые нужно подчеркнуть в строке By signing up you agree to our Terms & Privacy policy */
+"Terms & Privacy policy" = "Правил и Политики безопасности";
+
+/* Alert message photo lib */
+"User denied access to photo library, allow?" = "Пользователь запретил доступ к библиотеке фотографий, разрешить?";
+
+/* Alert title */
+"Warning" = "Предупреждение";
+
+/* Alert action yes */
+"Yes" = "Да";
+
+/* My Location title Your location is */
+"Your location is" = "Ваше местоположение";
+
+/* Verify Phone title */
+"Please type the verification code\nsend to" = "Введите код подтверждения,\nотправленный на номер";
+
+/* You need turn on location on this device to use our app */
+"You need turn on location on this device to use our app" = "Вам нужно включить геолокацию на этом устройстве, чтобы использовать наше приложение";
+
+/* My location title */
+"You need turn on location on this device\nto use our app" = "Вам нужно включить геолокацию на этом устройстве,\nчтобы использовать наше приложение";
+
+/* My location title substring */
+"to use our app" = "чтобы использовать наше приложение";
+
+/* Slider 1 */
+"Find people with similar interests and discuss them" = "Находите людей по интересам";
+
+/* Slider 2 */
+"You can find someone to practice a language" = "Практикуйте язык";
+
+/* Slider 3 */
+"Play video games with people you met here" = "Играйте в онлайн игры вместе";
+
+/* Slider 4 */
+"Your soulmate waits for you" = "Найдите своего человека";
+
+/* Please, upload another photo */
+"Please, upload another photo" = "Пожалуйста, загрузите другое фото";
+
+/* No internet connection */
+"No internet connection" = "Отсутствует интернет соединение";
+
+/* miles from you */
+"miles from you" = "км от Вас";
+
+/* of match */
+"of match" = "совпадения";

@@ -1,0 +1,12 @@
+/* Bundle name */
+"CFBundleName" = "Jivys";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "This will let you take photos";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "You need to turn on location on this device to use our app";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "This lets you share photos from your library and save photos to your Camera Roll";
+

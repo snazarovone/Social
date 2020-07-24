@@ -1,0 +1,12 @@
+/* Bundle name */
+"CFBundleName" = "Jivys";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Приложение запрашивает доступ к камере устройства";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Вам нужно включить геолокацию на этом устройстве, чтобы использовать наше приложение";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Приложение запрашивает доступ к библиотеке фотографий";
+
